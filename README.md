@@ -1,4 +1,4 @@
-This is a fork of Jekyll Now for my blog: [[https://mountwebs.github.io/]].
+This is a fork of Jekyll Now for my blog: https://mountwebs.github.io/.
 
 Read about Jekyll Now from the original readme below.
 
