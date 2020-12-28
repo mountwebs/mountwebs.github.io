@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, this is the blog of Stian Klasbu, aka. mountwebs. On this blog I will share my coding and tinkering projects and my thoughts on technology.
 
-### More Information
+Feel free to share your thoughts or feedback.
 
-A place to include any other types of information that you'd like to include about yourself.
+Find more about me and my projects on my [Github profile](https://github.com/mountwebs).
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact:
+[stiangk@gmail.com](mailto:stiangk@gmail.com)
