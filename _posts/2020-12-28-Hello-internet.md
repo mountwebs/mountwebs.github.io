@@ -1,9 +1,9 @@
 ---
 layout: post
-title: First post
+title: Hello internet!
 ---
 
-Hello internet! This is my new blog. On this blog I will write about my coding and tinkering projects and share my thoughts on technology.
+This is my new blog. On this blog I will write about my coding and tinkering projects and share my thoughts on technology.
 
 ## A bit about me and my journey
 These recent years I have spent more and time on technology. During this previous spring and summer, while I was finishing my master thesis (which I will come back to), I made a big decision: I want to work as a developer.
